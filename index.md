@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: Athena Jekyll Theme
+title: your face
 
 ---
 your face
